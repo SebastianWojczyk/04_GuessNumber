@@ -1,0 +1,10 @@
+C:\Users\Student_PL\source\repos\04_GuessNumber\obj\Debug\04_GuessNumber.csprojAssemblyReference.cache
+C:\Users\Student_PL\source\repos\04_GuessNumber\obj\Debug\_04_GuessNumber.FormMain.resources
+C:\Users\Student_PL\source\repos\04_GuessNumber\obj\Debug\_04_GuessNumber.Properties.Resources.resources
+C:\Users\Student_PL\source\repos\04_GuessNumber\obj\Debug\04_GuessNumber.csproj.GenerateResource.cache
+C:\Users\Student_PL\source\repos\04_GuessNumber\obj\Debug\04_GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Student_PL\source\repos\04_GuessNumber\bin\Debug\04_GuessNumber.exe.config
+C:\Users\Student_PL\source\repos\04_GuessNumber\bin\Debug\04_GuessNumber.exe
+C:\Users\Student_PL\source\repos\04_GuessNumber\bin\Debug\04_GuessNumber.pdb
+C:\Users\Student_PL\source\repos\04_GuessNumber\obj\Debug\04_GuessNumber.exe
+C:\Users\Student_PL\source\repos\04_GuessNumber\obj\Debug\04_GuessNumber.pdb
